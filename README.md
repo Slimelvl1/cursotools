@@ -5,4 +5,4 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link do curso [Python Pro] (https://pythonprobr.appspot.com/)
 
-Suportava versão 3 de Python
+Suportada versão 3 de Python
