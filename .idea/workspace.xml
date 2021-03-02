@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52abf187-4ffc-4836-9eee-ed3567253c99" name="Default Changelist" comment="adicionado MANIFEST.in">
+    <list default="true" id="52abf187-4ffc-4836-9eee-ed3567253c99" name="Default Changelist" comment="Inserido teste com pytest&#10;&#10;close #14">
+      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/-libpythonpro-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/-libpythonpro-.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +52,14 @@
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\-libpythonpro-\dist" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest for test_exemplo.test_int">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="cursotools" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,8 +177,42 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_exemplo.test_int" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="-libpythonpro-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_exemplo.test_int&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="-libpythonpro-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_exemplo.test_int" />
+        <item itemvalue="Python tests.pytest in tests" />
         <item itemvalue="Python.github_api" />
       </list>
     </recent_temporary>
@@ -308,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614457903910</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Consertado bug na instalação via PyPi&#10;&#10;Esse é o release da segunda versão">
+      <created>1614458350312</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614458350312</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Inserido teste com pytest&#10;&#10;close #14">
+      <created>1614699806504</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1614699806504</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,6 +390,8 @@
     <MESSAGE value="Adicionado setup.py" />
     <MESSAGE value="commiting untracked files" />
     <MESSAGE value="adicionado MANIFEST.in" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionado MANIFEST.in" />
+    <MESSAGE value="Consertado bug na instalação via PyPi&#10;&#10;Esse é o release da segunda versão" />
+    <MESSAGE value="Inserido teste com pytest&#10;&#10;close #14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserido teste com pytest&#10;&#10;close #14" />
   </component>
 </project>
