@@ -7,6 +7,11 @@ pyflakes==2.2.0
 py==1.8.2
 attrs==19.2.0
 pluggy==1.0.0
+
+#Coverage
+coverage==5.5
+pytest-cov==2.11.1
+
 -r requirements.txt
 
 
