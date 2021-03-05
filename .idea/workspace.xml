@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52abf187-4ffc-4836-9eee-ed3567253c99" name="Default Changelist" comment="Inserido teste com pytest&#10;&#10;close #14">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    <list default="true" id="52abf187-4ffc-4836-9eee-ed3567253c99" name="Default Changelist" comment="Acrescentada cobertura de código&#10;&#10;close #16">
       <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -406,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614719793903</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Acrescentada cobertura de código&#10;&#10;close #16">
+      <created>1614964027803</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1614964027803</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Acrescentada cobertura de código&#10;&#10;close #16">
+      <created>1614964050289</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1614964050289</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,6 +452,7 @@
     <MESSAGE value="Consertado bug na instalação via PyPi&#10;&#10;Esse é o release da segunda versão" />
     <MESSAGE value="Inserido teste com pytest&#10;&#10;close #14" />
     <MESSAGE value="consertado a versão do pluggy" />
-    <option name="LAST_COMMIT_MESSAGE" value="consertado a versão do pluggy" />
+    <MESSAGE value="Acrescentada cobertura de código&#10;&#10;close #16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acrescentada cobertura de código&#10;&#10;close #16" />
   </component>
 </project>
