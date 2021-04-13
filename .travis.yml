@@ -4,8 +4,7 @@ python:
 install:
   - pip install -q pipenv codecov
   - pipenv sync --dev
-before_script:
-  -psql -c "CREATE DATABASE testdb;" -U postgres
+
 script:
   - pipenv run flake8
   - pipenv run pytest --cov=cursotools
