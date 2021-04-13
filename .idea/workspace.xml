@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52abf187-4ffc-4836-9eee-ed3567253c99" name="Default Changelist" comment="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
-      <change afterPath="$PROJECT_DIR$/.pyup.yml" afterDir="false" />
+    <list default="true" id="52abf187-4ffc-4836-9eee-ed3567253c99" name="Default Changelist" comment="Atualizada configuração do pyup de acordo com pipenv&#10;&#10;close #28">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,20 +251,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612385724333</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Inserido link para curso no README&#10;&#10;close #4">
-      <created>1613050801912</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1613050801912</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Inserido tópico virtualenv&#10;&#10;close #7">
-      <created>1613051715633</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1613051715633</updated>
     </task>
     <task id="LOCAL-00006" summary="Inserido tópico pip&#10;&#10;close #8">
       <created>1613051759422</created>
@@ -595,7 +581,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618354886127</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Atualizada configuração do pyup de acordo com pipenv&#10;&#10;close #28">
+      <created>1618355042830</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1618355042830</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Atualizada configuração do pyup de acordo com pipenv&#10;&#10;close #28">
+      <created>1618355189557</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1618355189557</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -631,7 +631,8 @@
     <MESSAGE value="consertado a versão do pluggy" />
     <MESSAGE value="Acrescentada cobertura de código&#10;&#10;close #16" />
     <MESSAGE value="Alterado gestor de dependências para pipenv&#10;&#10;close #18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alterado gestor de dependências para pipenv&#10;&#10;close #18" />
+    <MESSAGE value="Atualizada configuração do pyup de acordo com pipenv&#10;&#10;close #28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizada configuração do pyup de acordo com pipenv&#10;&#10;close #28" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
