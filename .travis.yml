@@ -7,7 +7,7 @@ install:
   - pipenv install flake8 --dev
 
 script:
-  - pipenv run flake8 .
+  - pipenv run flake8
   - pipenv run pytest libpythonpro --cov=cursotools
 after_success:
   - pipenv run codecov
