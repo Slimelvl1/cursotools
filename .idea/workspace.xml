@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52abf187-4ffc-4836-9eee-ed3567253c99" name="Default Changelist" comment="Acrescentada cobertura de código&#10;&#10;close #16">
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/modelos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_github_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipenv-proj/PIPENV_VENV_IN_PROJECT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipenv-proj/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipenv-proj/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/-libpythonpro-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/-libpythonpro-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="52abf187-4ffc-4836-9eee-ed3567253c99" name="Default Changelist" comment="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,20 +252,6 @@
       <option name="presentableId" value="Default" />
       <updated>1612385724333</updated>
     </task>
-    <task id="LOCAL-00001" summary="Adicionada informação sobre contribuição a projetos de código aberto">
-      <created>1612560537353</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1612560537353</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Adicionada informação sobre contribuição a projetos de código aberto">
-      <created>1612561395790</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1612561395790</updated>
-    </task>
     <task id="LOCAL-00003" summary="teste">
       <created>1613050303084</created>
       <option name="number" value="00003" />
@@ -482,7 +448,154 @@
       <option name="project" value="LOCAL" />
       <updated>1614964438228</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618343106071</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1618343106071</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618343146509</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1618343146509</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618343543102</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1618343543102</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618344342805</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1618344342805</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618344486103</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1618344486103</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618344596392</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1618344596392</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618344802598</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1618344802598</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618345047048</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1618345047048</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618345479052</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1618345479052</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618345616988</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1618345616988</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618345915721</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1618345915721</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618346039952</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1618346039952</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618349545452</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1618349545452</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618349670809</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1618349670809</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618349808519</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1618349808519</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618349913313</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1618349913313</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618350088243</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1618350088243</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618350299170</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1618350299170</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618351530849</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1618351530849</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618353035014</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1618353035015</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Alterado gestor de dependências para pipenv&#10;&#10;close #18">
+      <created>1618353613976</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1618353613976</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +630,8 @@
     <MESSAGE value="Inserido teste com pytest&#10;&#10;close #14" />
     <MESSAGE value="consertado a versão do pluggy" />
     <MESSAGE value="Acrescentada cobertura de código&#10;&#10;close #16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Acrescentada cobertura de código&#10;&#10;close #16" />
+    <MESSAGE value="Alterado gestor de dependências para pipenv&#10;&#10;close #18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterado gestor de dependências para pipenv&#10;&#10;close #18" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
