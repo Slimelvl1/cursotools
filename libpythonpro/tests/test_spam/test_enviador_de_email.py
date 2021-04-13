@@ -7,6 +7,7 @@ def test_criar_enviador_de_email():
     enviador = Enviador()
     assert enviador is not None
 
+
 @pytest.mark.parametrize(
     'remetente',
     ['pedroh.af@hotmail.com', 'pedro.af200@gmail.com']
@@ -36,7 +37,3 @@ def test_remetente_invalido(remetente):
             'pytools',
             'teste do TDD pytools'
     )
-
-
-
-

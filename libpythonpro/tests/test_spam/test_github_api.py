@@ -4,6 +4,7 @@ import pytest
 
 from libpythonpro import github_api
 
+
 @pytest.fixture
 def avatar_url(mocker):
     resp_mock = Mock()
@@ -21,6 +22,7 @@ def avatar_url(mocker):
 def test_buscar_avatar(avatar_url):
     url = github_api.buscar_avatar('Slimelvl2')
     assert avatar_url == url
+
 
 def test_buscar_avatar_integracao():
     url = github_api.buscar_avatar('Slimelvl1')

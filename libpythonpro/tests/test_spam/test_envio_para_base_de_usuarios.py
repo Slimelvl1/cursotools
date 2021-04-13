@@ -2,7 +2,6 @@ from unittest.mock import Mock
 
 import pytest
 
-from libpythonpro.spam.enviador_de_email import Enviador
 from libpythonpro.spam.main import EnviadorDeSpam
 from libpythonpro.spam.modelos import Usuario
 
@@ -12,11 +11,11 @@ from libpythonpro.spam.modelos import Usuario
     'usuarios',
     [
         [
-        Usuario(nome='Pedro', email='necromancerdoidao@outlook.com'),
-        Usuario(nome='Silvio', email='jsilvio.f@hotmail.com')
+            Usuario(nome='Pedro', email='necromancerdoidao@outlook.com'),
+            Usuario(nome='Silvio', email='jsilvio.f@hotmail.com')
         ],
         [
-        Usuario(nome='Pedro', email='necromancerdoidao@outlook.com'),
+            Usuario(nome='Pedro', email='necromancerdoidao@outlook.com'),
         ]
     ]
 )
