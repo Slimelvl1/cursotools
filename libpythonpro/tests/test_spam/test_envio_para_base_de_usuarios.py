@@ -49,4 +49,3 @@ def test_parametros_de_spam(sessao):
         'Pytools',
         'teste do pytools'
     )
-
