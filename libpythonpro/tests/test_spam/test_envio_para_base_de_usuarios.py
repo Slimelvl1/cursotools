@@ -5,8 +5,6 @@ import pytest
 from libpythonpro.spam.main import EnviadorDeSpam
 from libpythonpro.spam.modelos import Usuario
 
-
-
 @pytest.mark.parametrize(
     'usuarios',
     [
