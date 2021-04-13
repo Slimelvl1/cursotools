@@ -7,6 +7,6 @@ install:
 
 script:
   - pipenv run flake8
-  - pipenv run pytest --cov=cursotools
+  - pipenv run pytest libpythonpro --cov=cursotools
 after_success:
   - pipenv run codecov
